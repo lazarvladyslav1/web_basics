@@ -1,0 +1,12 @@
+.h1 {text-transform:uppercase}
+.list__item {color:#ff0000;background-color:yellow;font-style:italic;}
+.list {border: solid 1px ;border-color: red}
+.pdf {border: solid 1px ;border-color: red;font-style:italic;}
+#header {color: green}
+.link {text-decoration: none;color:violet}
+.item {text-transform: uppercase}
+.intext {text-decoration: none; color: magenta;background-color: mistyrose}
+.bold {font-weight: bold}
+.big {text-transform:uppercase}
+.right {text-align:right; border: solid 1px ; border-color:blue; font-size:20px}
+.link1 {text-decoration: none;color:green}
