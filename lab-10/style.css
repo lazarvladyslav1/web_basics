@@ -1,0 +1,8 @@
+.game {
+    border:solid; border-color:green;
+    border-radius: 5px;
+    color:pink;
+    padding: 15px;
+    margin: 10px
+}
+body {background-color: black;}
