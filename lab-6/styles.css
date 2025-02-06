@@ -12,7 +12,7 @@ h1, h2 {
     font-family: 'Cormorant Infant', serif;
     color: aqua;
     letter-spacing: 0.5px;
-    text-transform: capitalize;
+    text-transform: capitalize
 }
 
 h1 {
@@ -49,7 +49,7 @@ p {
     text-align: justify;
 }
 
-.our-adv {
+.list{
     background-image: url(http://picsum.photos/id/357/700/400?blur=5);
     padding-top: 30px;
     padding-bottom: 60px;
